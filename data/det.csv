@@ -1,0 +1,10 @@
+Activity,acousticness,danceability,energy,instrumentalness,liveness,loudness,tempo,valence,speechiness
+Physical,X,H,H,X,H,H,H,H,X
+Mental_Gym,L,L,H,H,H,L,L,H,L
+Memorization,L,L,H,H,H,L,L,H,L
+Concentration,X,X,X,H,X,X,X,X,X
+Stress,X,H,H,X,H,H,H,H,H
+Learning,L,L,L,H,H,L,L,H,L
+Problem_Solving,L,L,H,H,H,L,L,H,X
+Reading,L,L,L,H,H,L,L,H,L
+Creativity,X,L,H,X,H,X,H,H,X
